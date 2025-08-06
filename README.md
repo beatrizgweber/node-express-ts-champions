@@ -1,6 +1,6 @@
 # ⚽ Football Players API
 
-Esta é uma API simples que fornece dados de jogadores de futebol famosos e os clubes aos quais pertencem. O projeto simula uma estrutura de dados que pode ser usada em aplicações de front-end, back-end ou aprendizado de APIs RESTful.
+Esta é uma API simples que fornece dados de jogadores de futebol famosos e os clubes aos quais pertencem. O projeto simula uma estrutura de dados que pode ser usada em aplicações de front-end, back-end ou aprendizado de APIs REST.
 
 ## 📦 Conteúdo
 
